@@ -32,8 +32,8 @@ optimizer = SlimAdamW(
 ### Compression Modes
 
 SlimAdam can operate in two different modes:
-- **SNR Auto Mode**: Dynamically generates compression rules by analyzing the Signal-to-Noise Ratio (SNR) for the given training recipe. The derived rules are then provided using the `rules_json_path` argument to the optimizer.
-- **Static Mode**: Static Mode applies fixed compression rules based on layer types, according to Table 1 in the paper. Activate this by setting `layer_map_path='layer_map.json'` and `rules_json_path=None`
+1. **SNR Auto Mode**: Dynamically generates compression rules by analyzing the Signal-to-Noise Ratio (SNR) for the given training recipe. The derived rules are then provided using the `rules_json_path` argument to the optimizer.
+2. **Static Mode**: Static Mode applies fixed compression rules based on layer types, according to Table 1 in the paper. Activate this by setting `layer_map_path='layer_map.json'` and `rules_json_path=None`
 
 Note: Only one compression mode can be active at a time. Either `rules_json_path` or `layer_map_path` must be specified, with the other set to `None`.
 
