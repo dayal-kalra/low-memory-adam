@@ -1,0 +1,320 @@
+{
+    "transformer.wte.weight": null,
+    "transformer.wpe.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.ln_1.weight": null,
+    "transformer.h.0.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.ln_2.weight": null,
+    "transformer.h.0.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.0.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.ln_1.weight": null,
+    "transformer.h.1.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.ln_2.weight": null,
+    "transformer.h.1.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.1.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.ln_1.weight": null,
+    "transformer.h.2.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.ln_2.weight": null,
+    "transformer.h.2.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.2.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.ln_1.weight": null,
+    "transformer.h.3.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.ln_2.weight": null,
+    "transformer.h.3.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.3.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.ln_1.weight": null,
+    "transformer.h.4.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.ln_2.weight": null,
+    "transformer.h.4.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.4.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.ln_1.weight": null,
+    "transformer.h.5.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.ln_2.weight": null,
+    "transformer.h.5.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.5.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.ln_1.weight": null,
+    "transformer.h.6.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.ln_2.weight": null,
+    "transformer.h.6.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.6.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.ln_1.weight": null,
+    "transformer.h.7.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.ln_2.weight": null,
+    "transformer.h.7.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.7.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.ln_1.weight": null,
+    "transformer.h.8.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.ln_2.weight": null,
+    "transformer.h.8.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.8.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.ln_1.weight": null,
+    "transformer.h.9.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.ln_2.weight": null,
+    "transformer.h.9.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.9.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.ln_1.weight": null,
+    "transformer.h.10.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.ln_2.weight": null,
+    "transformer.h.10.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.10.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.ln_1.weight": null,
+    "transformer.h.11.attn.k_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.attn.q_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.attn.v_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.attn.output_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.ln_2.weight": null,
+    "transformer.h.11.mlp.mlp_up.weight": [
+        0,
+        1
+    ],
+    "transformer.h.11.mlp.mlp_proj.weight": [
+        0,
+        1
+    ],
+    "transformer.ln_f.weight": null
+}

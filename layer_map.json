@@ -1,0 +1,14 @@
+{
+  "attention_query": ["q_proj", "query", "q.weight"],
+  "attention_key": ["k_proj", "key", "k.weight"],
+  "attention_value": ["v_proj", "value", "v.weight"],
+  "attention_output": ["o_proj", "output_proj", "out_proj", "attn.c_proj"],
+  "mlp_up": ["mlp_up", "c_fc", "fc1", "up_proj", "w1"],
+  "mlp_gate": ["gate_proj", "mlp.gate", "w2"],
+  "mlp_down": ["mlp_proj", "mlp_down", "c_proj", "fc2", "down_proj", "w3"],
+  "token_embedding": ["wte", "embed", "embedding", "token_embedding"],
+  "position_embedding": ["wpe", "pos_embed", "position_embedding"],
+  "lm_head": ["lm_head", "output_layer", "classifier"],
+  "vision_first": ["conv1", "patch_embed", "first_conv"],
+  "norm": ["ln_", "norm", "layer_norm", "layernorm"]
+}
