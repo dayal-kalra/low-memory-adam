@@ -1,6 +1,0 @@
-/scratch/zt1/project/mzms/user/dayal/slimAdam/low-memory-adam/train_gpt_adam.py:249: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
-  scaler = torch.cuda.amp.GradScaler(enabled=(dtype == 'float16'))
-
-real	255m18.500s
-user	0m0.014s
-sys	0m0.067s
