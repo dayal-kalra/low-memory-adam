@@ -1,7 +1,8 @@
 # When Can You Get Away with Low Memory Adam?
 This repository contains the code implementation for the paper 'When Can You Get Away with Low Memory Adam?'
 
-![SlimAdam](images/slimadam-github.svg)
+<img src="images/slimadam-github.svg" alt="SlimAdam" width="700">
+
 
 ## Overview
 Adam is the go-to optimizer for training modern machine learning models, but it requires additional memory to maintain the moving averages of gradients and their squares.
